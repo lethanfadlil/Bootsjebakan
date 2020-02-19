@@ -1,6 +1,7 @@
 # Bootsjebakan
 
-Pengertian Bootstrap
+!Pengertian Bootstrap!
+
 Bootstrap merupakan salah satu teknologi dalam pemubuatan web yang memudahkan para web designer untuk menghias website mereka. Jadi kodingan mereka akan semakin simple dan mudah dengan hasil yang sama bilamana kita menggunakan css.
 
 Latihan 1
