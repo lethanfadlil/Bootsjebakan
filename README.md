@@ -1,7 +1,7 @@
 # Bootsjebakan
 
 Pengertian Bootstrap
-Bootstrap merupakan salah satu teknologi dalam pemubuatan web yang memudahkan dalam hal desain tampilan website. Bootstrap adalah library atau kumpulan beberapa style CSS yang sering digunakan pada pembuatan halaman web pada umumnya, sehingga designer lebih mudah dalam layouting web page karena hanya tinggal memanggil nama class-class yang telah disediakan.
+Bootstrap merupakan salah satu teknologi dalam pemubuatan web yang memudahkan para web designer untuk menghias website mereka. Jadi kodingan mereka akan semakin simple dan mudah dengan hasil yang sama bilamana kita menggunakan css.
 
 Latihan 1
 ![Alt Text](https://github.com/lethanfadlil/Bootsjebakan/blob/master/Latihan%201.PNG)
